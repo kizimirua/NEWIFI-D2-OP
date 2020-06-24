@@ -25,3 +25,5 @@ Turbo ACC
 每月更新一次，有需自取
 
 下载链接： https://github.com/kizimirua/NEWIFI-D2-OP/releases
+
+此固件为精简版固件，完整版固件在这个仓库：https://github.com/kizimirua/NEWIFI-D2-OpenWrt
