@@ -7,7 +7,7 @@
 
 广告屏蔽大师 Plus+
 
-ssr-plus(ssr，ss-v2ray-plugin，v2ray，trojan，redsocks，ssr-server)
+ssr-plus(ssr，ss-v2ray-plugin，v2ray，naiveproxy，trojan，redsocks，ssr-server)
 
 动态DNS
 
