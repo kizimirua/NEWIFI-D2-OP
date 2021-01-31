@@ -7,20 +7,20 @@
 
 广告屏蔽大师 Plus+
 
-ssr-plus[ ssr，ss(v2ray-plugin)，xray(trojan,v2ray)，socks5 ]
-
 动态DNS
-
-KMS服务器
-
-UPNP
 
 frpc
 frps
 
+京东签到
+
+ssr-plus[ ssr，ss(v2ray-plugin)，xray(trojan,v2ray)，socks5 ]
+
 TTYD终端
 
-京东签到
+UPNP
+
+KMS服务器
 
 Turbo ACC
 
