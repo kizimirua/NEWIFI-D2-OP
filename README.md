@@ -10,11 +10,8 @@
 动态DNS
 
 frpc
-frps
 
-京东签到
-
-ssr-plus[ ssr，ss-rust，xray(trojan,v2ray,socks5)]
+ssr-plus[ ssr，ssr，xray(trojan,v2ray,socks5)]
 
 TTYD终端
 
