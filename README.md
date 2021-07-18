@@ -5,13 +5,15 @@
 
 每月更新，包含以下软件：
 
+京东签到
+
 广告屏蔽大师 Plus+
 
 动态DNS
 
-frpc
+frpc/frps
 
-ssr-plus[ ssr，ssr，xray(trojan,v2ray,socks5)]
+ssr-plus[ ss，ssr，xray(trojan,v2ray,socks5)]
 
 TTYD终端
 
