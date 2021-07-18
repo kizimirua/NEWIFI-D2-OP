@@ -23,6 +23,8 @@ KMS服务器
 
 Turbo ACC
 
+zerotier
+
 此固件采用开源驱动，每月更新一次，有需自取，转载请标明出处
 
 下载链接： https://github.com/kizimirua/NEWIFI-D2-OP/releases
